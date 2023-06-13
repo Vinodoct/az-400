@@ -1,2 +1,2 @@
 This is file1
-New changes at FeatureB
+New changes at FeatureB & Feature-Test
